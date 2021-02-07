@@ -1,0 +1,28 @@
+.welcome {
+  padding: 50px 200px;
+  min-height: 770px;
+  background-color: white;
+}
+
+.photo {
+  margin-left: 400px;
+  padding: 5px;
+  background: #ffffff;
+  width: 200px;
+  max-width: 400px;
+}
+
+.welcome h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.welcome h2 {
+  margin-top: 15px;
+}
+
+.welcome p {
+  margin-top: 15px;
+}

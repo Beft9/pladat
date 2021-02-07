@@ -1,0 +1,23 @@
+nav{
+  justify-content: start;
+  align-items: right;
+  background: linear-gradient(0.25turn, #fd297b, #ff5864, #ff655b);
+  overflow: hidden;
+}
+.nav-links {
+  float: right;
+  display: inline-flex;
+  justify-content: right;
+  align-items: center;
+  list-style: none;
+  padding: 30px;
+}
+.logo{
+  margin-left: 20px;
+  max-height:10vh;
+}
+
+li{
+  padding-left: 20px;
+  padding-right: 20px; 
+}
